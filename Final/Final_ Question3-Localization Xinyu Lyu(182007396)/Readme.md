@@ -1,0 +1,1 @@
+Run and print the results predicted by two different of the test images-Mystery. Also, I will also print the cross validation scores of the model.
