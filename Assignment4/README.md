@@ -36,6 +36,6 @@ What does each folder include in our project?
 5. Final_test_result: Show some colorization results against the real colorful images.
 ### Results
 1. dataset ![avatar](https://github.com/XinyuLyu/CS520_IntroToAI/blob/master/Assignment4/11.png)
-2. fake(colorized from black&white picture) VS ground truth ![avatar](https://github.com/XinyuLyu/CS520_IntroToAI/blob/master/Assignment4/22.png)
-3. ![avatar](https://github.com/XinyuLyu/CS520_IntroToAI/blob/master/Assignment4/33.png)
+2. Fake(colorized from black&white picture) VS Ground Truth ![avatar](https://github.com/XinyuLyu/CS520_IntroToAI/blob/master/Assignment4/22.png)
+3. Training Process ![avatar](https://github.com/XinyuLyu/CS520_IntroToAI/blob/master/Assignment4/33.png)
 
