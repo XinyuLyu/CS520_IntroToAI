@@ -34,3 +34,8 @@ What does each folder include in our project?
     2. contrast : We concat the grayscale(BW), generated, original image together from the test at the end of each training epoch.
     3. concat_fake : We concatenate the test result from 50 epochs to see the gradual process of model tranining.
 5. Final_test_result: Show some colorization results against the real colorful images.
+### Results
+1. dataset ![avatar](https://github.com/XinyuLyu/CS520_IntroToAI/blob/master/Assignment4/11.png)
+2. fake(colorized from black&white picture) VS ground truth ![avatar](https://github.com/XinyuLyu/CS520_IntroToAI/blob/master/Assignment4/22.png)
+3. ![avatar](https://github.com/XinyuLyu/CS520_IntroToAI/blob/master/Assignment4/33.png)
+
